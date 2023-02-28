@@ -1,2 +1,2 @@
 # Week 1 — App Containerization
-I had done the knowledge challenges (security quiz and pricing quiz), I watched videos in student portal, so learned about github, gitpod and wrote my week1's summary in my Project's Github Repository within the journal folder in the archive called week1.md
+I had done the knowledge challenges (security quiz and pricing quiz), I watched videos in student portal, then learned about github and gitpod, I configured gitpod.yml and I cloned backend and frontend repositories and wrote my week1's summary in my Project's Github Repository within the journal folder in the archive called week1.md
