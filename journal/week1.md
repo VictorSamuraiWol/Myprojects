@@ -1,1 +1,2 @@
 # Week 1 — App Containerization
+I had done the knowledge challenges (security quiz and pricing quiz) and wrote my week1's summary in my Project's Github Repository within the journal folder in the archive called week1.md
